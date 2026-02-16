@@ -57,5 +57,4 @@ Platelets are small blood components that are critical for blood clotting and wo
 ```.\test```
 
 ## 🧠 Educational Purpose
-M.E.D.I.C bridges programming fundamentals with biomedical reasoning.
-It demonstrates how algorithmic logic can simulate simplified clinical classification systems using structured C code.
+This project represents how algorithmic logic can simulate simplified clinical and medical classifications using structured C langugage code.
